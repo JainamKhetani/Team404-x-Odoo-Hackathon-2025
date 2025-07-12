@@ -1,73 +1,37 @@
-# Welcome to your Lovable project
+# 🚀 Team 404 x Odoo Hackathon 2025
 
-## Project info
+# Skill Swap Platform 
 
-**URL**: https://lovable.dev/projects/cd61b715-5784-4c82-88cf-28851ccb9cc7
+**Overview:** 
+Develop a Skill Swap Platform — a mini application that enables users to list their skills and 
+request others in return
 
-## How can I edit this code?
+Welcome to the official GitHub repository of **Team 404** for the **Odoo Hackathon 2025**!  
+This repository will serve as the foundation for our collaborative project during the event. Stay tuned for updates as we finalize our idea and begin building our custom Odoo solution.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 👥 Team 404 Members                    
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/cd61b715-5784-4c82-88cf-28851ccb9cc7) and start prompting.
+| Name            | Role                |E-mail 
+|-----------------|---------------------|----------------------------------------|
+| Jainam Khetani  | UI/UX Designer      | jainamkhetani@gmail.com                |
+| Khushi Ka.Patel | Frontend Developer  | khushikapatel85@gmail.com/             |
+|                 |                     | 24cs032@charusat.edu.in                |
+| Jash Joshi      | Backend Developer   | 24cs030@charusat.edu.in                |
+| Palak Donga     | ML Developer        | plkdonga15@gmail.com/                  |
+|                 |                     | 24cs020@charusat.edu.in                |
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Getting Started (To Be Updated)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Instructions to set up and run the project will be added once development begins.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📢 Acknowledgement
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Grateful to **Odoo** and the **Hackathon 2025 organizers** for this amazing opportunity to innovate, collaborate, and build !!!
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/cd61b715-5784-4c82-88cf-28851ccb9cc7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
